@@ -8,3 +8,5 @@
 *.settings
 .DS_Store
 
+
+Debug/Travistest
