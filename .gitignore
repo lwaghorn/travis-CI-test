@@ -1,0 +1,10 @@
+.metadata
+*sloeber.ino.cpp
+*Release/
+*.o
+*.d
+*.project
+*.cproject
+*.settings
+.DS_Store
+
